@@ -1,0 +1,6 @@
+import io.netty.util.NetUtil;
+public class FunctionUse6537 {
+public void funcUse() {
+NetUtil netutil = new NetUtil();
+}
+}
